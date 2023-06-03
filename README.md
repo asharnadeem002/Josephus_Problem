@@ -1,6 +1,7 @@
 # Josephus_Problem
 Josephus Problem implemented on principles of data structures in c++ with graphical user interphase through sfml.
 
+///***.  You need to first set up sfml environment on visual studio for this code to work.  ***///
 
 Josephus Problem
 History: This problem is named after Flavius Josephus, a Jewish historian living in the 1st century. According to Josephus' account 
